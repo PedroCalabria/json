@@ -1,0 +1,51 @@
+[
+    {
+        "autor": "Jéssica",
+        "titulo": 47,
+        "banca": 1.54,
+        "descricao": 17,
+        "Download": 19.82
+    },
+    {
+        "autor": "Flavio",
+        "titulo": 70,
+        "banca": 1.7,
+        "descricao": 17,
+        "Download": 24.22
+    },
+    {
+        "autor": "Teresa",
+        "titulo": 60,
+        "banca": 1.7,
+        "descricao": 13,
+        "Download": 20.76
+    },
+    {
+        "autor": "Marina",
+        "titulo": 75,
+        "banca": 1.7,
+        "descricao": 26,
+        "Download": 25.95
+    },
+    {
+        "autor": "Lucas",
+        "titulo": 23,
+        "banca": 1.25,
+        "descricao": 10,
+        "Download": 14.72
+    },
+    {
+        "autor": "Stevie",
+        "titulo": 73,
+        "banca": 1.75,
+        "descricao": 10,
+        "Download": 23.84
+    },
+    {
+        "autor": "Daniel",
+        "titulo": 78,
+        "banca": 1.85,
+        "descricao": 19,
+        "Download": 22.79
+    }
+]
